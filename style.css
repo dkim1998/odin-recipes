@@ -8,23 +8,17 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-h3,
-li {
+h3 {
   color: #d08770;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 24px;
 }
 
 li,
-.link
-p {
-  font-family: monospace;
-}
-
-li,
 p {
   color: #d8dee9;
   font-size: 16px;
+  font-family: monospace;
 }
 
 .link {
